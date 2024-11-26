@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    align-items: center;
+}
+
+button {
+color: rgb(4, 4, 4);
+background-color: burlywood;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
